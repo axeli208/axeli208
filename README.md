@@ -1,2 +1,4 @@
-## Hi, i'm fachri ansori
+## HI, I'm Fachri👋
+## About Me:
+🔭 currently only make a useless project
 
