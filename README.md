@@ -5,10 +5,3 @@
 💻 Interested In Informatics Engineering<br>
 🎯 Future Google Engineer<br>
 🎧 Anime & Coder Enjoyer<br>
-
-# Skills
--HTML
--CSS
--Javascript
--GIT & GITHUB
--Learning C++
